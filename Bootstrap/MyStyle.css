@@ -1,0 +1,12 @@
+﻿.RegistrationCentered{
+    position: fixed;
+    top: 20%;
+    left: 25%;
+    width: 50%;
+}
+
+.SignInCentered{
+    top: 5%;
+    left: 10%;
+    width: 50%;
+}
